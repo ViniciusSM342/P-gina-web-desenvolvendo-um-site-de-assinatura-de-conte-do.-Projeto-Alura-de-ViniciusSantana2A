@@ -1,1 +1,1 @@
-# P-gina-web-desenvolvendo-um-site-de-assinatura-de-conte-do.-Projeto-Alura-de-ViniciusSantana2A
+Projeto do Alura de VInicius Santana Martins 2 ano A. 
